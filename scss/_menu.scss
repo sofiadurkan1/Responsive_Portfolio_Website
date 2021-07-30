@@ -21,7 +21,7 @@
 
 &.close {
     transform: rotate(180deg);
-  }
+  
   .btn-line {
     //   Line 1 - Rotate
     &:nth-child(1) {
@@ -38,4 +38,5 @@
       translate(7px, -6px);
     }
   }
+}
 }

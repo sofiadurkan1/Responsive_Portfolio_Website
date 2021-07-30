@@ -22,16 +22,16 @@
           transform: rotate(180deg);
 }
 
-.menu-btn .btn-line:nth-child(1) {
+.menu-btn.close .btn-line:nth-child(1) {
   -webkit-transform: rotate(45deg) translate(5px, 5px);
           transform: rotate(45deg) translate(5px, 5px);
 }
 
-.menu-btn .btn-line:nth-child(2) {
+.menu-btn.close .btn-line:nth-child(2) {
   opacity: 0;
 }
 
-.menu-btn .btn-line:nth-child(3) {
+.menu-btn.close .btn-line:nth-child(3) {
   -webkit-transform: rotate(-45deg) translate(7px, -6px);
           transform: rotate(-45deg) translate(7px, -6px);
 }
